@@ -53,11 +53,11 @@ Open security logs in the virtual machine using eventviewer:  <br/>
 <img src="https://i.imgur.com/w8xqNNe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Ping The VM without disabling the firewall:  <br/>
+Ping the VM without disabling the firewall:  <br/>
 <img src="https://i.imgur.com/KkIuSnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Disable the firewall in The VM:  <br/>
+Disable the firewall in the VM:  <br/>
 <img src="https://i.imgur.com/G5ReXd4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
