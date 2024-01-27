@@ -57,7 +57,7 @@ Ping The VM without disabling the firewall:  <br/>
 <img src="https://i.imgur.com/KkIuSnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Disable the firewall In The VM:  <br/>
+Disable the firewall in The VM:  <br/>
 <img src="https://i.imgur.com/G5ReXd4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
